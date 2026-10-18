@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://candidate-calc.github.io/elections-2026/sitemap.xml
